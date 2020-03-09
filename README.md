@@ -20,7 +20,7 @@
 
 ## ***Features***
 
-- Resume capability for a course video.
+- Resume capability for a course videos.
 - Supports organization and individual udemy users both.
 - Save course direct download links to a text file (option: `--save`).
 - Cache credentials to a file and use it later for login purpose (option: `--cache`).
